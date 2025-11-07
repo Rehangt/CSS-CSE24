@@ -1,0 +1,18 @@
+p{
+    font-size: 50px;
+}
+
+
+div{
+
+    border: 40px solid blue;
+    height: 50px;
+    width: 200;
+    text-align: center;
+    background-color: yellow;
+    margin: 5px;
+    padding: 10px;
+    
+}
+
+
