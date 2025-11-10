@@ -1,18 +1,8 @@
-p{
-    font-size: 50px;
+.box {
+width: 400px;
+background-color: yellow;
+padding: 20px;
+border: 25px solid blue;
+margin: 30px;
+text-align: center;
 }
-
-
-div{
-
-    border: 40px solid blue;
-    height: 50px;
-    width: 200;
-    text-align: center;
-    background-color: yellow;
-    margin: 5px;
-    padding: 10px;
-    
-}
-
-
